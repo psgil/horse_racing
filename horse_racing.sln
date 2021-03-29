@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "horse_racing", "horse_racing\horse_racing.csproj", "{5FA09081-BE9A-4F4B-9350-B462758A8FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "horse_racingTests", "horse_racingTests\horse_racingTests.csproj", "{5DC33B62-ED84-40E2-8680-FB23406FFD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA09081-BE9A-4F4B-9350-B462758A8FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA09081-BE9A-4F4B-9350-B462758A8FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA09081-BE9A-4F4B-9350-B462758A8FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA09081-BE9A-4F4B-9350-B462758A8FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC33B62-ED84-40E2-8680-FB23406FFD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC33B62-ED84-40E2-8680-FB23406FFD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC33B62-ED84-40E2-8680-FB23406FFD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC33B62-ED84-40E2-8680-FB23406FFD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77AF4BDC-C0DA-4CB6-B7B2-CCB1FCF507E3}
+	EndGlobalSection
+EndGlobal
